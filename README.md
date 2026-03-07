@@ -1,7 +1,6 @@
-Programming Languages I Know (Ranked from most familiar to least familiar):
-- Python
-- Rust
-- C
-- C++
-- Lua
-- Java
+<p align="left">
+<a href="https://github.com/wrkean">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wrkean&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wrkean&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
